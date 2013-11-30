@@ -6,7 +6,9 @@ Improved updater based on script by daaku from [Mac OS X Hints](http://hints.mac
 
 ## Usage
 
+```shell
 ./webkit-updater.sh
+```
 
 ## Notes
 
