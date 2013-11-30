@@ -13,3 +13,7 @@ Improved updater based on script by daaku from [Mac OS X Hints](http://hints.mac
 ## Notes
 
 Will copy previous WebKit bundles to the trash (named based on the date).
+
+## Legal
+
+Considered public domain as it is based on a public-facing comment.
